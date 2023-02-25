@@ -1,0 +1,70 @@
+2023-02-25 09:12:23,879  INFO [main] ScopexProject:44 - Browser is open
+2023-02-25 09:12:24,032  INFO [main] ScopexProject:47 - Browser is Maximize
+2023-02-25 09:12:25,375  INFO [main] ScopexProject:44 - Browser is open
+2023-02-25 09:12:25,519  INFO [main] ScopexProject:47 - Browser is Maximize
+2023-02-25 09:12:27,099  INFO [main] ScopexProject:44 - Browser is open
+2023-02-25 09:12:27,226  INFO [main] ScopexProject:47 - Browser is Maximize
+2023-02-25 09:12:28,509  INFO [main] ScopexProject:44 - Browser is open
+2023-02-25 09:12:28,662  INFO [main] ScopexProject:47 - Browser is Maximize
+2023-02-25 09:14:27,889  INFO [main] ScopexProject:44 - Browser is open
+2023-02-25 09:14:28,035  INFO [main] ScopexProject:47 - Browser is Maximize
+2023-02-25 09:14:31,041  INFO [main] ScopexProject:51 - Url is open
+2023-02-25 09:14:31,201  INFO [main] ScopexProject:17 - Click on Contact Us
+2023-02-25 09:14:31,202  INFO [main] ScopexProject:19 - Apply for validation
+2023-02-25 09:14:31,435  INFO [main] ScopexProject:60 - Browser is closed
+2023-02-25 09:14:31,437  INFO [main] ScopexProject:62 - End of Program
+2023-02-25 09:14:32,208  INFO [main] ScopexProject:44 - Browser is open
+2023-02-25 09:14:32,329  INFO [main] ScopexProject:47 - Browser is Maximize
+2023-02-25 09:14:35,910  INFO [main] ScopexProject:51 - Url is open
+2023-02-25 09:14:35,974  INFO [main] ScopexProject:34 - Click on Contact us
+2023-02-25 09:14:35,976  INFO [main] ScopexProject:36 - Apply for validation
+2023-02-25 09:14:36,003  INFO [main] ScopexProject:42 - Test case is passed
+2023-02-25 09:14:36,186  INFO [main] ScopexProject:60 - Browser is closed
+2023-02-25 09:14:36,186  INFO [main] ScopexProject:62 - End of Program
+2023-02-25 09:14:36,907  INFO [main] ScopexProject:44 - Browser is open
+2023-02-25 09:14:37,035  INFO [main] ScopexProject:47 - Browser is Maximize
+2023-02-25 09:14:39,741  INFO [main] ScopexProject:51 - Url is open
+2023-02-25 09:14:39,808  INFO [main] ScopexProject:61 - Click on Contact us
+2023-02-25 09:14:39,808  INFO [main] ScopexProject:63 - Apply for validation
+2023-02-25 09:14:39,832  INFO [main] ScopexProject:69 - Test case is passed
+2023-02-25 09:14:39,991  INFO [main] ScopexProject:60 - Browser is closed
+2023-02-25 09:14:39,991  INFO [main] ScopexProject:62 - End of Program
+2023-02-25 09:14:40,719  INFO [main] ScopexProject:44 - Browser is open
+2023-02-25 09:14:40,846  INFO [main] ScopexProject:47 - Browser is Maximize
+2023-02-25 09:14:43,893  INFO [main] ScopexProject:51 - Url is open
+2023-02-25 09:14:44,071  INFO [main] ScopexProject:88 - Click on Contact us
+2023-02-25 09:14:44,072  INFO [main] ScopexProject:90 - Apply for validation
+2023-02-25 09:14:44,096  INFO [main] ScopexProject:96 - Test case is passed
+2023-02-25 09:14:44,269  INFO [main] ScopexProject:60 - Browser is closed
+2023-02-25 09:14:44,269  INFO [main] ScopexProject:62 - End of Program
+2023-02-25 09:14:45,037  INFO [main] ScopexProject:44 - Browser is open
+2023-02-25 09:14:45,159  INFO [main] ScopexProject:47 - Browser is Maximize
+2023-02-25 09:14:47,964  INFO [main] ScopexProject:51 - Url is open
+2023-02-25 09:14:48,113  INFO [main] ScopexProject:17 - Click on FAQs
+2023-02-25 09:14:48,113  INFO [main] ScopexProject:19 - Apply for validation
+2023-02-25 09:14:48,249  INFO [main] ScopexProject:60 - Browser is closed
+2023-02-25 09:14:48,249  INFO [main] ScopexProject:62 - End of Program
+2023-02-25 09:14:49,007  INFO [main] ScopexProject:44 - Browser is open
+2023-02-25 09:14:49,127  INFO [main] ScopexProject:47 - Browser is Maximize
+2023-02-25 09:14:52,678  INFO [main] ScopexProject:51 - Url is open
+2023-02-25 09:14:52,850  INFO [main] ScopexProject:17 - Click on Register
+2023-02-25 09:14:52,850  INFO [main] ScopexProject:19 - Apply for validation
+2023-02-25 09:14:52,988  INFO [main] ScopexProject:60 - Browser is closed
+2023-02-25 09:14:52,988  INFO [main] ScopexProject:62 - End of Program
+2023-02-25 09:14:53,620  INFO [main] ScopexProject:44 - Browser is open
+2023-02-25 09:14:53,745  INFO [main] ScopexProject:47 - Browser is Maximize
+2023-02-25 09:14:56,761  INFO [main] ScopexProject:51 - Url is open
+2023-02-25 09:14:56,939  INFO [main] ScopexProject:20 - Click on Login
+2023-02-25 09:14:56,939  INFO [main] ScopexProject:22 - Apply for validadation 
+2023-02-25 09:14:57,127  INFO [main] ScopexProject:60 - Browser is closed
+2023-02-25 09:14:57,128  INFO [main] ScopexProject:62 - End of Program
+2023-02-25 09:14:57,878  INFO [main] ScopexProject:44 - Browser is open
+2023-02-25 09:14:58,002  INFO [main] ScopexProject:47 - Browser is Maximize
+2023-02-25 09:15:00,942  INFO [main] ScopexProject:51 - Url is open
+2023-02-25 09:15:01,142  INFO [main] ScopexProject:42 - Enter the Email
+2023-02-25 09:15:01,218  INFO [main] ScopexProject:45 - Enter the Password
+2023-02-25 09:15:01,269  INFO [main] ScopexProject:48 - Login Button are hit
+2023-02-25 09:15:01,269  INFO [main] ScopexProject:50 - Apply for Validation
+2023-02-25 09:15:04,473  INFO [main] ScopexProject:54 - Screenshot is Capture
+2023-02-25 09:15:04,705  INFO [main] ScopexProject:60 - Browser is closed
+2023-02-25 09:15:04,705  INFO [main] ScopexProject:62 - End of Program
